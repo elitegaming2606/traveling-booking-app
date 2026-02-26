@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Node.js
+node_modules/
+*.log
+npm-debug.log*
+
+# C++
+*.o
+*.out
+*.exe
+*.a
